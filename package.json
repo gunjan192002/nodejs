@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "it is a package manager which will keep all the dependicies",
+  "main": "g1.js",
+  "devDependencies": {},
+  "keywords": [
+    "no"
+  ],
+  "author": "Gunjna Agrawal",
+  "license": "ISC"
+}
