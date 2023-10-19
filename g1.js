@@ -4,7 +4,7 @@
 const os=require('os');
 console.log(os.platform(),os.homedir());
 
-//lets talk about ho to read and write files using fs module
+//lets talk about how to read and write files using fs module
 const fs = require("fs");
 // reading using fs module 
 //Its is async in nature
